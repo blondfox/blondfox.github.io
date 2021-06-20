@@ -1,25 +1,17 @@
 {
 "papel 1": {
-   "id":1,
-   "descricao":"Just Say",
    "endereco":"https://blondfox.github.io/1.png"
 },
 
 "papel 2": {
-   "id":2,
-   "descricao":"Cheese",
    "endereco":"https://blondfox.github.io/2.png"
 },
 
 "papel 3": {
-   "id":3,
-   "descricao":"Estrela",
    "endereco":"https://blondfox.github.io/3.png"
 },
 
 "papel 4": {
-   "id":4,
-   "descricao":"Lua",
    "endereco":"https://blondfox.github.io/4.png"
 }
 
