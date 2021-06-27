@@ -1,14 +1,14 @@
 [
-   "papel": {  
+   {  
    "descricao":"Just Say",
    "endereco":"https://blondfox.github.io/1.png" },
-   "papel": {  
+   {  
    "descricao":"Cheese",
    "endereco":"https://blondfox.github.io/2.png" },
-   "papel": {  
+   {  
    "descricao":"Estrela",
    "endereco":"https://blondfox.github.io/3.png" },
-   "papel":{  
+   {  
    "descricao":"Lua",
    "endereco":"https://blondfox.github.io/4.png" }
 ]
