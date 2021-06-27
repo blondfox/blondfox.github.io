@@ -12,9 +12,12 @@
    "descricao":"Lua",
    "endereco":"https://blondfox.github.io/4.png" },
     {  
-   "descricao":"Ela faz as fotos dela",
+   "descricao":"Ela Faz as Fotos Dela",
    "endereco":"https://blondfox.github.io/5.png" },
        {  
-   "descricao":"Todo dia é um bom dia para fotografar",
-   "endereco":"https://blondfox.github.io/6.png" }
+   "descricao":"Todo Dia é um Bom Dia para Fotografar",
+   "endereco":"https://blondfox.github.io/6.png" },
+      {  
+   "descricao":"Blond Fox",
+   "endereco":"https://blondfox.github.io/7.png" }
 ]
