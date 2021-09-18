@@ -1,10 +1,10 @@
 [
    {  
-   "imagem":"https://blondfox.github.io/rotativa-1.png" },
+   "imagem":"https://blondfox.github.io/rotativa-1.png","tipo":"site" },
    {  
-   "imagem":"https://blondfox.github.io/rotativa-2.png" },
+   "imagem":"https://blondfox.github.io/rotativa-2.png","tipo":"site" },
    {  
-   "imagem":"https://blondfox.github.io/rotativa-3.png" },
+   "imagem":"https://blondfox.github.io/rotativa-3.png","tipo":"video" },
    {  
-   "imagem":"https://blondfox.github.io/rotativa-4.png" }
+   "imagem":"https://blondfox.github.io/rotativa-4.png","tipo":"blog" }
 ]
