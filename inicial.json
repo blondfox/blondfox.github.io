@@ -1,13 +1,22 @@
 [
    {  
-   "imagem":"https://blondfox.github.io/rotativa-1.png","tipo":"site" },
+   "imagem":"https://blondfox.github.io/rotativa-1.png","tipo":"site","url":"https://www.istockphoto.com/br/portfolio/blondfox?sort=purerecency&assettype=image&fbclid=IwAR3lz5CjPGkAv5h51RgJbHF0gCslzwzTijKwAIc7iUOYGJNwJejGySQ2oTI" },
    {  
    "imagem":"https://blondfox.github.io/rotativa-2.png","tipo":"video" },
    {  
-   "imagem":"https://blondfox.github.io/rotativa-3.png","tipo":"site" },
+   "imagem":"https://blondfox.github.io/rotativa-3.png","tipo":"site","url":"https://www.adrielly.com.br/"},
    {  
-   "imagem":"https://blondfox.github.io/rotativa-4.png","tipo":"blog" },
+   "imagem":"https://blondfox.github.io/rotativa-4.png","tipo":"site" },
    {  
-   "imagem":"https://blondfox.github.io/rotativa-5.png","tipo":"site" }
+   "imagem":"https://blondfox.github.io/rotativa-5.png","tipo":"site" },
+   {  
+   "imagem":"https://blondfox.github.io/rotativa-6.png","tipo":"site","url":"https://open.spotify.com/show/0Vvy0Cfe6dRXd6Cx2SwFaA?si=e4cc117474d04d3b" },
+   {  
+   "imagem":"https://blondfox.github.io/rotativa-7.png","tipo":"site" },
+   {  
+   "imagem":"https://blondfox.github.io/rotativa-8.png","tipo":"site","url":"https://www.amazon.com.br/As-Aventuras-Foxyny-Hist%C3%B3ria-Fotografias-ebook/dp/B0BKJQ1TFX/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=blond+fox&qid=1666823715&s=digital-text&sr=1-1" },
+      {  
+   "imagem":"https://blondfox.github.io/rotativa-9.png","tipo":"site" }
+   
 
 ]
